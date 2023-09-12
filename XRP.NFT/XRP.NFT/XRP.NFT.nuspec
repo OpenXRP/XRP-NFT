@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>OpenXRP.NFT</id>
+    <version>1.0.1</version>
+    <title>OpenXRP.NFT</title>
+    <authors>OpenXRP</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A lightweight library for deploying, minting and exchanging NFTs on the XRP ecosystem</description>
+    <releaseNotes>Package Update</releaseNotes>
+		<projectUrl>https://github.com/OpenXRP</projectUrl>
+    <copyright>2023</copyright>
+    <tags>xrp,nft,bip39,bip32</tags>
+    <icon>xrp.png</icon>
+  </metadata>
+
+  <files>
+    <file src="xrp.png" target="xrp.png"/>
+    <file src="bin\Release\netstandard2.0\XRP.NFT.dll" target="lib\netstandard2.0\XRP.NFT.dll"/>
+  </files>
+</package>
